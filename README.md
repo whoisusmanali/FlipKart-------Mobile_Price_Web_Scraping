@@ -37,3 +37,12 @@
 ![Screenshot (16)](https://github.com/whoisusmanali/FlipCart-------Mobile_Price_Web_Scraping/assets/104086680/b5aa0033-9260-40c6-9b76-e563c82ba352)
 
 
+![Screenshot (18)](https://github.com/whoisusmanali/FlipCart-------Mobile_Price_Web_Scraping/assets/104086680/2610839f-dd14-4476-84cd-21acc3bec1b7)
+
+![Screenshot (19)](https://github.com/whoisusmanali/FlipCart-------Mobile_Price_Web_Scraping/assets/104086680/0e71c9db-9944-4447-8365-40cf80066597)
+
+![Screenshot (20)](https://github.com/whoisusmanali/FlipCart-------Mobile_Price_Web_Scraping/assets/104086680/e4cc4755-b999-44ec-bd8f-23031dc75a61)
+
+
+
+
