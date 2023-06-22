@@ -27,3 +27,13 @@
 12. Use a loop to go to the next page
 13. After all the data is received convert it into a .csv file
 14. Now use this data for further analysis and make predictions.
+
+# ScreenShots:
+
+![Screenshot (14)](https://github.com/whoisusmanali/FlipCart-------Mobile_Price_Web_Scraping/assets/104086680/46893321-54f3-4291-a983-99829e73b036)
+
+![Screenshot (15)](https://github.com/whoisusmanali/FlipCart-------Mobile_Price_Web_Scraping/assets/104086680/867ee85a-0034-4f46-9346-ac08bc844d37)
+
+![Screenshot (16)](https://github.com/whoisusmanali/FlipCart-------Mobile_Price_Web_Scraping/assets/104086680/b5aa0033-9260-40c6-9b76-e563c82ba352)
+
+
