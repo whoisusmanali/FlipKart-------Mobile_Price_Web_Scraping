@@ -10,7 +10,6 @@
 6. re
 7. datetime
 
-
 # How to extract data:
 
 1. Open the flipcart.com website.
